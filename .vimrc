@@ -37,6 +37,10 @@ set smarttab
 " Auto Indent
 set autoindent
 
+"set color scheme
+source ~/.vim/colors/molokai.vim
+"set colorscheme molokai
+
 " Backspace through anything
 set backspace=indent,eol,start
 
